@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-### 나의 데이터 분석
-⚡ 내용 : 타이타닉 데이터 분석, 시각화 예제 <br>
-😄 해당 저장소로 [이동하기](https://github.com/Wallabee22/AI_goorm/tree/main/MyDataAnalysis_2022) 
+### 구름 AI 프로젝트반
+⚡ 내용 : 2022년 구름 AI 프로젝트반 활동 <br>
+😄 해당 저장소로 [이동하기]([https://github.com/Wallabee22/AI_goorm/tree/main/MyDataAnalysis_2022](https://github.com/Wallabee22/AI_goorm)) 
 <!--
 **Wallabee22/Wallabee22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
