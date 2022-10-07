@@ -3,6 +3,9 @@
 ### 구름 AI 프로젝트반
 ⚡ 내용 : 2022년 구름 AI 프로젝트반 활동 <br>
 😄 해당 저장소로 [이동하기](https://github.com/Wallabee22/AI_goorm) 
+### 호주 강우 예측 프로젝트
+⚡ 내용 : 2022년 구름 AI 프로젝트반 파일럿 프로젝트 <br>
+😄 해당 저장소로 [이동하기](https://github.com/Wallabee22/AI_goorm/tree/main/Rain_in_Australia_Pilot_Project) 
 <!--
 **Wallabee22/Wallabee22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
