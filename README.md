@@ -2,7 +2,7 @@
 
 ### 구름 AI 프로젝트반
 
-⚡ 내용 : 2022년 구름 AI 프로젝트반 파일럿 프로젝트 <br>
+⚡ 내용 : 호주 강우량 예측 프로젝트 <br>
 
 😄 해당 저장소로 [이동하기](https://github.com/Wallabee22/AI_goorm/tree/main/Rain_in_Australia_Pilot_Project) 
 <!--
